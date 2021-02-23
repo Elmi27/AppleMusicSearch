@@ -7,9 +7,9 @@ This project was bootstrapped with Typescript template of [Create React App](htt
 - Search for your favourite Artists, Albums and Songs...
 - Validates if the form is submitted empty.
 - `Bootstrap Cards`: Displays results matching Artists, Albums, and/or Songs related to the query.
-- Only 9 Cards are dispalyed initially.
+- Only 9 Cards are displayed initially.
 - `Infinite Scroll`: When the user scrolls down just before he reaches the bottom of the page, next 9 Cards are revealed.
-- If there are no results for search query, The users are notified that `No results were found`.
+- If there are no results for search query, the users are notified that `No results were found`.
 
 - Used `Functional programming/Hooks` based approach over Class components.
 - Used `Custom Hooks` for infinite scrolling.
